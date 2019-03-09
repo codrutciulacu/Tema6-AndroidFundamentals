@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.codrut.temamodul6">
+    package="com.codrut.teme">
 
     <application
         android:allowBackup="true"
@@ -9,14 +9,22 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".codechallenge8.FragmentLifeCycleActivity"></activity>
-        <activity android:name=".MainActivity">
+        <activity
+            android:name="com.codrut.teme.codechallenge7.CodeChallenge7NavigationDrawerActivity"
+            android:label="@string/title_activity_code_challenge7_navigation_drawer"
+            android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.codrut.teme.codechallenge6.CodeChallenge6NavigationDrawerActivity"
+            android:label="@string/title_activity_code_challenge6_navigation_drawer"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="com.codrut.teme.codechallenge9.FragmentLifeCycleActivity" />
+        <activity android:name="com.codrut.teme.MainActivity"/>
     </application>
 
 </manifest>

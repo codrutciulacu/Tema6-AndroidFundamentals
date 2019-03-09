@@ -1,4 +1,4 @@
-package com.codrut.temamodul6.codechallenge8;
+package com.codrut.teme.codechallenge9;
 
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
@@ -6,7 +6,7 @@ import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-import com.codrut.temamodul6.R;
+import com.codrut.teme.R;
 
 public class FragmentLifeCycleActivity extends AppCompatActivity {
 

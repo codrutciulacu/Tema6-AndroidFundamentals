@@ -1,4 +1,4 @@
-package com.codrut.temamodul6;
+package com.codrut.teme;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

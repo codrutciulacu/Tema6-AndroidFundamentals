@@ -1,4 +1,4 @@
-package com.codrut.temamodul6;
+package com.codrut.teme;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

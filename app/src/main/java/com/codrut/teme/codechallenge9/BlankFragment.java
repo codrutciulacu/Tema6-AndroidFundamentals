@@ -1,7 +1,6 @@
-package com.codrut.temamodul6.codechallenge8;
+package com.codrut.teme.codechallenge9;
 
 import android.content.Context;
-import android.net.Uri;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
@@ -9,7 +8,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.codrut.temamodul6.R;
+import com.codrut.teme.R;
 
 
 public class BlankFragment extends Fragment {

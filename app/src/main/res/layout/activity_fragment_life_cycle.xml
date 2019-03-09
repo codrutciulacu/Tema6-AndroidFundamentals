@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".codechallenge8.FragmentLifeCycleActivity">
+    tools:context=".codechallenge9.FragmentLifeCycleActivity">
 
     <FrameLayout
         android:id="@+id/dynamic_frame_layout"
